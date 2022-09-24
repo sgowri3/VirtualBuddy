@@ -6,8 +6,8 @@ This Virtual Buddy can <br>
 4. Route the question to the right person if it cannot be answer.<br><br>
 
 <b>Procedures to execute the project</b><br>
-Open Google Colab and upload <b>Summarizer.ipynb</b> and run the cell for summarization.<br>
-VirtualBuddy directory contains the bot application. <br><br>
+Open Google Colab and upload <b>Summarizer.ipynb</b> and run the cell for summarization.<br><br>
+<b>VirtualBuddy</b> zipped file contains the bot application. <br><br>
 <b>Steps to add the bot in MS Teams</b><br>
-1. Zip VirtualBuddy directory. Open MS Teams -> Apps -> Manage your apps -> Upload an app -> Upload a customized app<br>
-2. Add this application
+1. Open MS Teams -> Apps -> Manage your apps -> Upload an app -> Upload a customized app<br>
+2. Add the VirtualBuddy zip file
